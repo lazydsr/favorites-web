@@ -10,3 +10,6 @@
 *.class
 .checkstyle
 /.idea
+gradle/
+lib/
+out/
